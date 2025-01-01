@@ -5,9 +5,9 @@
 
 @layer base {
     html {
-        --primary: #45d4ff;
-        --secondary: #76c0f9;
-        --background: #402E7A;
-        --accent: #e04ef3;
+        --light_background: #585858;
+        --background: #404040;
+        --accent: #2CCDB2;
+        --text_general: #EBEBEB;
     }
 }

@@ -2,10 +2,10 @@ import React from "react";
 
 function Nav() {
   return (
-    <div className="w-full h-16 bg-background border-0">
-      <h1 className="text-4xl text-primary px-10">hello</h1>
-      <h1 className="text-4xl text-secondary px-10">hello</h1>
-      <h1 className="text-4xl text-accent px-10">hello</h1>
+    <div className="w-3/4 h-16 bg-light_background border-primary mx-auto mt-5 rounded-lg flex items-center drop-shadow">
+      <h1 className="text-3xl text-text_general px-10 font-semibold">
+        TypeTrainer
+      </h1>
     </div>
   );
 }

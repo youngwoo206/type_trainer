@@ -9,10 +9,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: 'var(--primary)',
-        secondary: 'var(--secondary)',
+        light_background: 'var(--light_background)',
         background: 'var(--background)',
-        accent: 'var(--accent)'
+        accent: 'var(--accent)',
+        text_general: 'var(--text_general)'
       },
       fontFamily: {
         open_sans: ["Open Sans", "sans-serif"]
